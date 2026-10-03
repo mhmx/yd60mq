@@ -1,6 +1,6 @@
 # YD60MQ
 
-![YD60MQ PCB](https://ae01.alicdn.com/kf/HTB1PVQ2X_HuK1RkSndVq6xVwpXaO.jpg)
+![YD60MQ PCB](image.jpg)
 
 Customizable 60% PCB by [YMDK](https://ymdk.aliexpress.com/store/429151?spm=2114.10010108.0.0.3ab23641lIkgzm).
 
