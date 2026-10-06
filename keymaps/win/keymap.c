@@ -78,7 +78,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     [_FN] = LAYOUT_all(
         QK_BOOT,     C(KC_1),  C(KC_2),  C(KC_3),  C(KC_4),  C(KC_5),  C(KC_6),  C(KC_7),  C(KC_8),  C(KC_9),  C(KC_0),  BR_DOWN,  BR_UP,    X______,  A(KC_4),
-        CLEAR,       A(KC_F4), C(KC_W),  G(KC_E),  C(KC_R),  C(KC_T),  C(KC_Y),  X______,  KC_INS,   X______,  X______,  X______,  X______,            X______,
+        X______,     A(KC_F4), C(KC_W),  G(KC_E),  C(KC_R),  C(KC_T),  C(KC_Y),  X______,  KC_INS,   X______,  X______,  X______,  X______,            CLEAR,
         KC_CAPS,     C(KC_A),  C(KC_S),  G(KC_D),  C(KC_F),  X______,  KC_ENT,   X______,  X______,  G(KC_L),  X______,  KC_MPLY,            X,        X______,
         KC_LSFT, X,  C(KC_Z),  C(KC_X),  C(KC_C),  C(KC_V),  A(KC_1),  X______,  X______,  BL_DOWN,  BL_UP,    BL_TOGG,            KC_VOLU,  X______,  KC_PGUP,
         X______,     X______,  KC_LALT,            X______,  X______,  X______,            X______,                      KC_MPRV,  KC_VOLD,  KC_MNXT,  KC_HOME
