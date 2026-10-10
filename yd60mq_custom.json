@@ -6,6 +6,13 @@
     "rows": 5,
     "cols": 15
   },
+  "customKeycodes": [
+    {
+      "name": "MY_CTRL",
+      "title": "Ctrl on hold; Alt+Shift on short tap",
+      "shortName": "RU/EN Ctrl"
+    }
+  ],
   "keycodes": ["qmk_backlight_rgblight_keycodes"],
   "layouts": {
     "keymap": [
